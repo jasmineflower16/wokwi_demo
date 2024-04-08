@@ -11,8 +11,7 @@ You can also include images in this folder and reference them in the markdown. E
 Ovo je primjer wokwi dizajna
 
 ## How to test
-Ne znam sto napisati
+Ne znam sto napisati 
 
 ## External hardware
-
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+ne znam sto treba napisati ali ocito treba ispuniti svako polje
